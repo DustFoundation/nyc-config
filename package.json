@@ -1,7 +1,7 @@
 {
   "name": "@dustfoundation/nyc-config",
   "version": "2.5.0",
-  "description": "Shared NYC config for Dust Foundation projects",
+  "description": "Node.js shared config for Nyc (Istanbul)",
   "repository": "https://github.com/DustFoundation/nyc-config",
   "main": ".nycrc.json",
   "files": [
